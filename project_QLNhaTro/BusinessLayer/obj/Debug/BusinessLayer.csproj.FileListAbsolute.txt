@@ -1,0 +1,15 @@
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\bin\Debug\BusinessLayer.exe.config
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\bin\Debug\BusinessLayer.exe
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\bin\Debug\BusinessLayer.pdb
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\bin\Debug\DataAccessLayer.exe
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\bin\Debug\DataAccessLayer.exe.config
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\obj\Debug\BusinessLayer.exe
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\obj\Debug\BusinessLayer.pdb
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\bin\Debug\DTO.exe
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\bin\Debug\DTO.pdb
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\bin\Debug\DTO.exe.config
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\bin\Debug\EntityFramework.dll
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\BusinessLayer\bin\Debug\EntityFramework.xml

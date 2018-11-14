@@ -1,0 +1,14 @@
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\bin\Debug\DTO.exe
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\bin\Debug\DTO.pdb
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\bin\Debug\DTO.exe.config
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\bin\Debug\EntityFramework.dll
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\bin\Debug\EntityFramework.xml
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml

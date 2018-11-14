@@ -1,0 +1,7 @@
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DTO\bin\Debug\DTO.exe.config
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DTO\bin\Debug\DTO.exe
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DTO\bin\Debug\DTO.pdb
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DTO\obj\Debug\DTO.exe
+G:\CNTT HK 1_2018\4 HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU\project\project_QLNhaTro\DTO\obj\Debug\DTO.pdb
